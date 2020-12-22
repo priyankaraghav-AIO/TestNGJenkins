@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Multi suite">
+    <suite-files>
+        <suite-file path="apitests.xml"></suite-file>
+        <suite-file path="dataprovider.xml"></suite-file>
+        <suite-file path="suite3.xml"></suite-file>
+    </suite-files>
+</suite>
