@@ -130,7 +130,7 @@
 					<testFailureIgnore> false </testFailureIgnore>
 					<suiteXmlFiles>
 
-						<suiteXmlFile>src/test/resources/runner/testng.xml</suiteXmlFile>
+						<suiteXmlFile>src/test/resources/dataprovider.xml</suiteXmlFile>
 
 					</suiteXmlFiles>
 				</configuration>
